@@ -1,0 +1,40 @@
+
+
+   Basic FreeRTOS Setup for the 'Bluepill' STM32F103C8 mini board.
+
+   LED (connected at PC13) will blink with frequency of 1s
+
+   This is a project to Code::Blocks on Linux with arm-none-eabi-* installed
+
+   Release Build do:
+
+    Compile
+    Generate *.lst with assembly
+    Convert Elf binary to S19
+    Automatically it will flash to BillPill Board using st-flash (from st-utils)
+
+
+    Links:
+
+    BluePill - Board
+    *** This board is cheap! Buy 10x at a time ***
+
+        http://s.click.aliexpress.com/e/iQBeubQ
+
+    Flash-Debuger USB STLink
+
+        http://s.click.aliexpress.com/e/qr7uBYf
+
+
+
+
+    ST-Util
+    https://github.com/texane/stlink
+
+    Ebook FreeRTOS
+    http://www.freertos.org/Documentation/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf
+
+    Basic informations
+    http://www.freertos.org/Creating-a-new-FreeRTOS-project.html
+
+

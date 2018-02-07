@@ -1,0 +1,456 @@
+# depslib dependency file v1.0
+1492969507 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/Src/gpio.c
+	"gpio.h"
+	"main.h"
+
+1494679761 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/Inc/gpio.h
+
+1494620232 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/Inc/main.h
+	"stm32f1xx_hal_conf.h"
+	"stm32f1xx.h"
+	"stm32f1xx_hal_rcc.h"
+	"stm32f1xx_hal_rcc_ex.h"
+	"stm32f1xx_hal_flash.h"
+	"stm32f1xx_hal_rcc.h"
+	"gpio.h"
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+	"stm32f100xb.h"
+	"stm32f100xe.h"
+	"stm32f101x6.h"
+	"stm32f101xb.h"
+	"stm32f101xe.h"
+	"stm32f101xg.h"
+	"stm32f102x6.h"
+	"stm32f102xb.h"
+	"stm32f103x6.h"
+	"stm32f103xb.h"
+	"stm32f103xe.h"
+	"stm32f103xg.h"
+	"stm32f105xc.h"
+	"stm32f107xc.h"
+	"stm32f1xx_hal.h"
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/stm32f100xb.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1446196933 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Include/core_cm3.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+
+1446196933 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Include/core_cmInstr.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1446196933 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Include/cmsis_armcc.h
+
+1446196933 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Include/cmsis_armcc_V6.h
+
+1446196933 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Include/cmsis_gcc.h
+
+1446196933 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Include/core_cmFunc.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/stm32f100xe.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/stm32f101x6.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/stm32f101xb.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/stm32f101xe.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/stm32f101xg.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/stm32f102x6.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/stm32f102xb.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/stm32f103x6.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xe.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xg.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/stm32f105xc.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1461575836 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Include/stm32f107xc.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+	"stm32f1xx_hal_conf.h"
+
+1461744380 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/Inc/stm32f1xx_hal_conf.h
+	"stm32f1xx_hal_rcc.h"
+	"stm32f1xx_hal_gpio.h"
+	"stm32f1xx_hal_dma.h"
+	"stm32f1xx_hal_can.h"
+	"stm32f1xx_hal_cortex.h"
+	"stm32f1xx_hal_adc.h"
+	"stm32f1xx_hal_crc.h"
+	"stm32f1xx_hal_dac.h"
+	"stm32f1xx_hal_flash.h"
+	"stm32f1xx_hal_sram.h"
+	"stm32f1xx_hal_nor.h"
+	"stm32f1xx_hal_i2c.h"
+	"stm32f1xx_hal_i2s.h"
+	"stm32f1xx_hal_iwdg.h"
+	"stm32f1xx_hal_pwr.h"
+	"stm32f1xx_hal_rtc.h"
+	"stm32f1xx_hal_pccard.h"
+	"stm32f1xx_hal_sd.h"
+	"stm32f1xx_hal_sdram.h"
+	"stm32f1xx_hal_spi.h"
+	"stm32f1xx_hal_tim.h"
+	"stm32f1xx_hal_uart.h"
+	"stm32f1xx_hal_usart.h"
+	"stm32f1xx_hal_irda.h"
+	"stm32f1xx_hal_smartcard.h"
+	"stm32f1xx_hal_wwdg.h"
+	"stm32f1xx_hal_pcd.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_rcc_ex.h"
+
+1461596061 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+	"stm32f1xx.h"
+	"Legacy/stm32_hal_legacy.h"
+	<stdio.h>
+
+1461596061 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_gpio_ex.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_dma_ex.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_can.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_can_ex.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_can_ex.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_adc_ex.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_crc.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dac.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_dac_ex.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dac_ex.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_flash_ex.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_sram.h
+	"stm32f1xx_ll_fsmc.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_fsmc.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_nor.h
+	"stm32f1xx_ll_fsmc.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2s.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_iwdg.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_rtc_ex.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc_ex.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pccard.h
+	"stm32f1xx_ll_fsmc.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_sd.h
+	"stm32f1xx_ll_sdmmc.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_sdmmc.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_tim_ex.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_usart.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_irda.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_smartcard.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_wwdg.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h
+	"stm32f1xx_ll_usb.h"
+	"stm32f1xx_hal_pcd_ex.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h
+	"stm32f1xx_hal_def.h"
+
+1461595384 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h
+	"stm32f1xx_hal_def.h"
+
+1494768955 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/Src/main.c
+	"main.h"
+	"rtc.h"
+
+1494698893 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/Src/stm32f1xx_it.c
+	"stm32f1xx_it.h"
+	"main.h"
+
+1494682869 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/Inc/stm32f1xx_it.h
+	"main.h"
+
+1461744380 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/Src/system_stm32f1xx.c
+	"stm32f1xx.h"
+
+1494372877 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/CMSIS/Device/ST/STM32F1xx/Source/Templates/gcc/startup_stm32f103xb.s
+
+1461595487 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cec.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_crc.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dac.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dac_ex.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_eth.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2s.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_irda.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_iwdg.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_msp_template.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_nand.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_nor.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pccard.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rtc.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rtc_ex.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_sd.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_smartcard.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi_ex.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_sram.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_usart.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_wwdg.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_fsmc.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_sdmmc.c
+	"stm32f1xx_hal.h"
+
+1461595384 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/thirdparty/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c
+	"stm32f1xx_hal.h"
+
+1494771789 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/Src/rtc.c
+	"rtc.h"
+	"time.h"
+
+1494699022 source:/media/EXT4.15/Dropbox/Dropbox/Cortex-M3/Src/time.c
+	"main.h"
+
+1494710019 /media/EXT4.15/Dropbox/Dropbox/Cortex-M3/Inc/rtc.h
+	"main.h"
+
